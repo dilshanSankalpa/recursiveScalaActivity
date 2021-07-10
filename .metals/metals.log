@@ -1,0 +1,69 @@
+[0m2021.07.10 19:52:03 INFO  Started: Metals version 0.10.4 in workspace '/home/dilshan/Desktop/Assignments/scala/recurisive_activity' for client Visual Studio Code 1.58.0.[0m
+[0m2021.07.10 19:52:07 INFO  time: initialize in 3.56s[0m
+[0m2021.07.10 19:52:07 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.10 19:52:07 WARN  no build tool detected in workspace '/home/dilshan/Desktop/Assignments/scala/recurisive_activity'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.10 19:52:07 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:52:11 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.10 19:52:13 INFO  time: code lens generation in 1.12s[0m
+[0m2021.07.10 19:52:13 INFO  time: code lens generation in 1.65s[0m
+[0m2021.07.10 19:52:13 INFO  time: code lens generation in 5.73s[0m
+Jul 10, 2021 7:52:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 79
+[0m2021.07.10 19:53:43 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:54:06 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:54:29 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:55:18 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:57:27 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:57:56 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 19:58:45 INFO  shutting down Metals[0m
+[0m2021.07.10 20:58:28 INFO  Started: Metals version 0.10.4 in workspace '/home/dilshan/Desktop/Assignments/scala/recurisive_activity' for client Visual Studio Code 1.58.0.[0m
+[0m2021.07.10 20:58:31 INFO  time: initialize in 3.45s[0m
+[0m2021.07.10 20:58:32 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.10 20:58:32 WARN  no build tool detected in workspace '/home/dilshan/Desktop/Assignments/scala/recurisive_activity'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.10 20:58:32 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 20:58:36 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.10 20:58:39 INFO  time: code lens generation in 6.81s[0m
+[0m2021.07.10 20:58:40 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu2/q2.scala[0m
+Jul 10, 2021 8:58:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Jul 10, 2021 9:00:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 191
+Jul 10, 2021 9:00:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 197
+Jul 10, 2021 9:00:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 215
+Jul 10, 2021 9:00:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 226
+Jul 10, 2021 9:00:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 250
+Jul 10, 2021 9:00:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 257
+Jul 10, 2021 9:01:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 302
+Jul 10, 2021 9:01:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 312
+Jul 10, 2021 9:01:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 388
+Jul 10, 2021 9:01:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 395
+Jul 10, 2021 9:02:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 437
+Jul 10, 2021 9:02:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 443
+[0m2021.07.10 21:02:15 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+Jul 10, 2021 9:03:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+Jul 10, 2021 9:03:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 599
+[0m2021.07.10 21:03:31 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 21:03:44 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 21:04:21 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 21:05:46 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 21:06:44 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 21:07:09 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+[0m2021.07.10 21:09:49 WARN  no build target for: /home/dilshan/Desktop/Assignments/scala/recurisive_activity/qu1/qu1.scala[0m
+Jul 10, 2021 9:10:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 940
+Jul 10, 2021 9:10:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 946
+[0m2021.07.10 21:11:53 INFO  shutting down Metals[0m
