@@ -1,10 +1,19 @@
 object qu5 extends App{
 
-    def evenSum(n : Int): Int = {
-        if(n-1 == 0) 0;
 
-        if((n-1)%2 == 0) n-1 + evenSum(n-1);
-        else 0 + evenSum(n-1);
+    def isEven(m:Int) : Boolean = {
+        m match{
+            case x if x% 2 == 0 => true;
+            case _ => false;
+        }
+    }
+
+    def evenSum(n : Int): Int = {
+        n match{
+            case 0 => 0;
+            case x if isEven(x) => n + evenSum(n-1);
+            case _ => 0 + evenSum(n-1);
+        } 
 
     }
 
