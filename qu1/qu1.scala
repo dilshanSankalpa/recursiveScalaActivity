@@ -1,13 +1,20 @@
 object qu1 extends App{
 
 
-   def isPrime(i: Int): Boolean =
-    if (i <= 1)
-        false
-    else if (i == 2)
-        true
-    else
-        !(2 until i).exists(n => i % n == 0)
+
+   def gcd(x: Int, y: Int): Int =  y match{
+       case 0 => x;
+       case y if (y>x) => gcd(y,x);
+       case _ => gcd(y,x%y);
+   } 
+
+   def isPrime(i: Int , m: Int = 2 ): Boolean = m match{
+       case x if(i == x) => true;
+       case x if (gcd(i,x)>1) => false;
+       case x => isPrime(i,x+1);
+
+   }
+    
 
     println(isPrime(8));
     println(isPrime(5));
