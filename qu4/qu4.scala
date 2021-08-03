@@ -1,4 +1,4 @@
-object qu1 extends App{
+object qu4 extends App{
 
     def isEven(n: Int): Boolean = {
         if(n == 0) true;

@@ -1,4 +1,4 @@
-object q2 extends App{
+object qu2 extends App{
 
     def isPrime(n : Int): Boolean = {
         var count : Int = 0;
